@@ -84,6 +84,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="sublime ~/.oh-my-zsh"
 
 alias vim="mvim -v"
+alias vi="vim"
 alias ll="CLICOLOR_FORCE=1 ls -laFh"
 alias less="less -R"
 
